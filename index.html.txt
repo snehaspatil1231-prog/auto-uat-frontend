@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Auto UAT</title>
+</head>
+<body>
+    <h1>Automatic User Acceptance Testing</h1>
+    <button>Generate Test Cases</button>
+</body>
+</html>
